@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://miramarplumbingco.com/sitemap.xml
